@@ -1,0 +1,12 @@
+Make a file "acknowledgments.txt" documenting any outside sources or help on this project.
+If you discussed this assignment with anyone, please acknowledge them here.
+If you used any libraries not mentioned in this module's content, please list them with a brief explanation what you used them for.
+If you used any generative AI tools, please add links to your transcripts below, and any other information that you feel is necessary to comply with the generative AI policy.
+If no acknowledgements are appropriate, just write none in the file.
+
+
+Acknowledgements:
+
+- Mainly used/referenced code from the dx704-examples/week01 as reference for solving the problems
+- Referenced google for potential issues with dataframe creation, specifically naming columns
+- https://claude.ai/share/b06ff455-3ef9-4438-b6f4-0d5b0d4134a0 For brief usage of Generative AI due to confusion on final question for clarifying questions.
